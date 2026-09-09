@@ -12,7 +12,6 @@ species.name <- "manu_rocks"
 # e.g. "red"
 color <- "#FFFFFF"
 # install.packages("colourpicker")
-
 # tip: pick a color using rstudio colour picker.
 # Addins > Colour Picker (to install: install.packages("colourpicker"))
   # Note: please do not include install.packages("PKG-NAME") in your final R script!
